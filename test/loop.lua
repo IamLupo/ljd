@@ -363,3 +363,5 @@ if x then
 else
 	print("else")
 end
+
+print("中文");
